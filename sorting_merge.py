@@ -3,7 +3,7 @@
 Created on Thu Oct  5 10:50:15 2017
 
 @author: Yalda Mohsenzadeh
-# Sortting a list with sort merge algorithm
+# Sortting a list with merge sort algorithm
 """
 def merge(Left, Right):
     i, j = 0, 0
