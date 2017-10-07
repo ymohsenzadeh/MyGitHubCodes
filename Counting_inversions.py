@@ -2,7 +2,7 @@
 """
 Created on Thu Oct  5 19:41:40 2017
 
-@author: Yalda
+@author: Yalda Mohsenzadeh
 This function counts the number of inversions in an array.
 #number of pairs for which if i<j, A[i]>A[j] 
 """
